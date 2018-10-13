@@ -5,3 +5,5 @@ def meat_choice(food = "meat")
   return food
   
 end
+
+meat_choice
